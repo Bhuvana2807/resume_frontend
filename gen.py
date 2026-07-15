@@ -2,7 +2,7 @@ import gradio as gr
 import requests
 import os
 
-FASTAPI_URL = "https://YOUR-BACKEND.onrender.com/generate"
+FASTAPI_URL = "https://resume-backend-ia5j.onrender.com"
 
 def generate(name, role, skills, experience):
 
